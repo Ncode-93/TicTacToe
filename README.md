@@ -1,7 +1,7 @@
 Tic Tac Toe for 2 Players
 Welcome to a console-based Tic Tac Toe game crafted for two players. The game unfolds on a classic 3x3 grid, where players alternate turns placing their symbols, 'X' and 'O'. The objective is to align three symbols either horizontally, vertically, or diagonally. The game reaches its conclusion when a player successfully achieves this alignment or when the entire board is filled, resulting in a draw.
 
-Website Link - https://clever-meerkat-cc09c9.netlify.app/
+Website Link - https://prismatic-tapioca-1da5a6.netlify.app/
 
 Features
 Two Players: Immerse yourself in a traditional Tic Tac Toe experience as two players take turns strategically placing their symbols.
